@@ -1,5 +1,5 @@
 Name: Charles Njoroge
-School Brown University
+School: Brown University
 Intended Major: Computer Science 
 
 
