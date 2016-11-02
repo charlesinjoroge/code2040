@@ -21,10 +21,10 @@ corresponds to a task in the API Challenge.
 
 Building:
 
-To build from the terminal type mvn package. Make sure you have maven.
+To build from the terminal type 'mvn package'. Make sure you have maven.
 
 
 Running:
 
-To run type ./run
+To run type './run'
 
